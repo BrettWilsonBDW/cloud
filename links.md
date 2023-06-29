@@ -14,3 +14,4 @@ ___
 
 - [simplex calc tool](https://github.com/danielptv/simplex-calculator/releases/download/v2.1.0/simplex-calc.jar)
 
+- [portable jdk for the simplex tool](https://drive.google.com/file/d/1zh_lk5-kVXcbhjuUMNC-R9abotpYDYUF/view?usp=drive_link)
